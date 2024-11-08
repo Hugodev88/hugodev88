@@ -14,6 +14,9 @@ Desenvolvedor Full-Stack, focado em tecnologia, inovação e soluções eficient
     <a href="https://github.com/hugodev88">
         <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="https://www.instagram.com/hgo1845/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 </div>
 
 ---
