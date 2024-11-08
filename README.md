@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Hugo Almeida 👋
 
-Desenvolvedor Full-Stack focado em tecnologia, inovação e soluções eficientes. Apaixonado por aprender e compartilhar conhecimento, gosto de explorar novas linguagens e frameworks.
+Desenvolvedor Full-Stack, focado em tecnologia, inovação e soluções eficientes. Apaixonado por aprender e compartilhar conhecimento, gosto de explorar novas linguagens e frameworks.
 
 ---
 
