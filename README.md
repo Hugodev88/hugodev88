@@ -51,7 +51,7 @@ Desenvolvedor de software, focado em tecnologia, inovação e soluções eficien
 
 ### 🌐 Projetos em Destaque
 
-- [**Projeto X**](https://github.com/hugodev88/projeto-x): Uma solução completa para gerenciamento de tarefas, desenvolvida com Node.js, Express e MongoDB.
+- [**Chat App**]([https://github.com/hugodev88/projeto-x](https://fullstack-chat-app-0fiy.onrender.com/)): Um chat em tempo real usando Node.js e React.
 - [**Portfólio Web**](https://github.com/hugodev88/portfolio-web): Meu portfólio pessoal, criado com HTML, CSS e JavaScript.
 - [**API RESTful**](https://github.com/hugodev88/api-restful): API completa para controle de usuários e autenticação, com arquitetura RESTful e documentação Swagger.
 
